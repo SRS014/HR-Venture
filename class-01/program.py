@@ -15,5 +15,7 @@ elif(operation==3):
     result = num1*num2
 elif(operation==4):    
     result = num1/num2
+else:
+    res = num1%num2
 
 print("The Result is:", result)
